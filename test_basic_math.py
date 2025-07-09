@@ -7,3 +7,5 @@ def test_subtraction():
 
 def test_multiplication():
     assert 2*2 == 5;
+def divide(a,b):
+    return a / b
